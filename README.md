@@ -11,8 +11,8 @@ GIS are also stored as well in <strong>FME_log_files</strong>.
 Predicted data sets for all three methods are also stored in the <strong>Predicted_data_sets</strong> folder. Latitude and longitude
 of predicted data are also stored.
 
-Due to the content of the original data set being strictly confidential, the original data set will 
-<strong>not</strong> be posted here. Test runs are performed on the original data set, and the result can be found on
+Due to the content of the original data set being strictly confidential, the original data set and files containing the produced maps will 
+<strong>NOT</strong> be posted here. Test runs are performed on the original data set, and the result can be found on
 the <strong>test_runs</strong> folder. We recommend using one of Sklearns toy data set to test the code such as
 load_diabetes. 
 
