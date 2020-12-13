@@ -2,6 +2,8 @@
 
 This repository contains neural network, KRR, and SVR-codes used in the project in src- and Codes_neural_net folder.
 
+The processing of the data set can be found in test_script.ipynb.
+
 Log-files after executing the conversion of the predicted data back to spatial data in order to create the maps in
 GIS are also stored as well.
 
