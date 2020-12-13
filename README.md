@@ -16,7 +16,7 @@ Due to the content of the original data set being strictly confidential, the ori
 the <strong>test_runs</strong> folder. We recommend using one of Sklearns toy data set to test the code such as
 load_diabetes or other regression-related data sets. Simply replace X, and y-values in the code. 
 
-If there are any questions or any more information is needed regarding the original data sets and its features, don't hesitate to send
+If there are any questions or more information is needed regarding the original data sets and its features, don't hesitate to send
 an e-mail to rmbp@multiconsult.no.
 
 Rhere might be a possibility to upload parts of the data sets under certain circumstances.
