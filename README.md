@@ -15,3 +15,8 @@ not be posted here. Test runs are performed on the original data set, and the re
 the test_runs folder. We recommend using one of Sklearns toy data set to test the code such as
 load_diabetes. 
 
+If there are any questions or any more information is needed regarding the original data sets and its features, send
+an e-mail to rmbp@multiconsult.no.
+
+Rhere might be a possibility to upload parts of the data sets under certain circumstances.
+
