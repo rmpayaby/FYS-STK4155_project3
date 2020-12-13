@@ -12,8 +12,8 @@ Predicted data sets for all three methods are also stored in the <strong>Predict
 of predicted data are also stored.
 
 Due to the content of the original data set being strictly confidential, the original data set will 
-not be posted here. Test runs are performed on the original data set, and the result can be found on
-the test_runs folder. We recommend using one of Sklearns toy data set to test the code such as
+<strong>not</strong> be posted here. Test runs are performed on the original data set, and the result can be found on
+the <strong>test_runs</strong> folder. We recommend using one of Sklearns toy data set to test the code such as
 load_diabetes. 
 
 If there are any questions or any more information is needed regarding the original data sets and its features, don't hesitate to send
