@@ -14,7 +14,7 @@ of predicted data are also stored.
 Due to the content of the original data set being strictly confidential, the original data set and files containing the produced maps will 
 <strong>NOT</strong> be posted here. Test runs are performed on the original data set, and the result can be found on
 the <strong>test_runs</strong> folder. We recommend using one of Sklearns toy data set to test the code such as
-load_diabetes. 
+load_diabetes or other regression-related data sets. Simply replace X, and y-values in the code. 
 
 If there are any questions or any more information is needed regarding the original data sets and its features, don't hesitate to send
 an e-mail to rmbp@multiconsult.no.
