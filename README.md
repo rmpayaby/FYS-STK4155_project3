@@ -18,5 +18,5 @@ load_diabetes.
 If there are any questions or any more information is needed regarding the original data sets and its features, send
 an e-mail to rmbp@multiconsult.no.
 
-Rhere might be a possibility to upload parts of the data sets under certain circumstances.
+There might be a possibility to upload parts of the data sets under certain circumstances.
 
