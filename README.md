@@ -19,5 +19,5 @@ load_diabetes or other regression-related data sets. Simply replace X, and y-val
 If there are any questions or more information is needed regarding the original data sets and its features, don't hesitate to send
 an e-mail to rmbp@multiconsult.no.
 
-There might be a possibility to upload parts of the data sets under certain circumstances.
+There might be a possibility to upload parts of the data set under certain circumstances.
 
